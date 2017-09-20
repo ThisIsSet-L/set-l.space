@@ -6,5 +6,6 @@ bower_components
 >>>>>>> master
 
 img/
+node_modules/
 
 cornflakes\.mp4
