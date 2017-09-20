@@ -1,0 +1,10 @@
+node_modules
+<<<<<<< HEAD
+.sass-cache
+=======
+bower_components
+>>>>>>> master
+
+img/
+
+cornflakes\.mp4
