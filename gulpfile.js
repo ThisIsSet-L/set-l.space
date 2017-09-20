@@ -76,7 +76,7 @@ gulp.task('copy', function() {
     .pipe(gulp.dest('dist/img/'))
 
   gulp.src(['view.jpg'])
-    .pipe(gulp.dest('dist/view.jpg'))
+    .pipe(gulp.dest('dist/'))
 
   gulp.src(['node_modules/jquery/dist/jquery.js', 'node_modules/jquery/dist/jquery.min.js'])
     .pipe(gulp.dest('dist/vendor/jquery'))
